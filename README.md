@@ -4,7 +4,7 @@ I'm Hoang Do, from Ho Chi Minh city, Vietnam :)
 
 ![nkhdo's Stats](https://github-readme-stats.vercel.app/api?username=nkhdo&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
-![nkhdo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkhdo&theme=vue-dark&hide_border=true)
+![nkhdo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkhdo&theme=onedark&hide_border=true)
 
 ![nkhdo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhdo&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
